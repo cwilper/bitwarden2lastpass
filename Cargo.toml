@@ -1,6 +1,13 @@
 [package]
 name = "bitwarden2lastpass"
 version = "0.1.0"
+authors = ["Chris Wilper"]
+license = "MIT OR Apache-2.0"
+description = "Converts BitWarden CSV export to Generic CSV suitable for LastPass"
+repository = "https://github.com/cwilper/bitwarden2lastpass"
+readme = "README.md"
+keywords = ["lastpass", "bitwarden", "csv", "convert"]
+categories = ["command-line-utilities"]
 edition = "2021"
 
 [dependencies]
